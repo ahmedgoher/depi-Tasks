@@ -1,0 +1,14 @@
+D:\programming\c#_Depi\Banck_System\Banck_System\bin\Debug\net9.0\Banck_System.exe
+D:\programming\c#_Depi\Banck_System\Banck_System\bin\Debug\net9.0\Banck_System.deps.json
+D:\programming\c#_Depi\Banck_System\Banck_System\bin\Debug\net9.0\Banck_System.runtimeconfig.json
+D:\programming\c#_Depi\Banck_System\Banck_System\bin\Debug\net9.0\Banck_System.dll
+D:\programming\c#_Depi\Banck_System\Banck_System\bin\Debug\net9.0\Banck_System.pdb
+D:\programming\c#_Depi\Banck_System\Banck_System\obj\Debug\net9.0\Banck_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\c#_Depi\Banck_System\Banck_System\obj\Debug\net9.0\Banck_System.AssemblyInfoInputs.cache
+D:\programming\c#_Depi\Banck_System\Banck_System\obj\Debug\net9.0\Banck_System.AssemblyInfo.cs
+D:\programming\c#_Depi\Banck_System\Banck_System\obj\Debug\net9.0\Banck_System.csproj.CoreCompileInputs.cache
+D:\programming\c#_Depi\Banck_System\Banck_System\obj\Debug\net9.0\Banck_System.dll
+D:\programming\c#_Depi\Banck_System\Banck_System\obj\Debug\net9.0\refint\Banck_System.dll
+D:\programming\c#_Depi\Banck_System\Banck_System\obj\Debug\net9.0\Banck_System.pdb
+D:\programming\c#_Depi\Banck_System\Banck_System\obj\Debug\net9.0\Banck_System.genruntimeconfig.cache
+D:\programming\c#_Depi\Banck_System\Banck_System\obj\Debug\net9.0\ref\Banck_System.dll
