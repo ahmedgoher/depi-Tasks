@@ -1,0 +1,28 @@
+D:\vs_project C#\Examination System\bin\Debug\net9.0\Examination System.exe
+D:\vs_project C#\Examination System\bin\Debug\net9.0\Examination System.deps.json
+D:\vs_project C#\Examination System\bin\Debug\net9.0\Examination System.runtimeconfig.json
+D:\vs_project C#\Examination System\bin\Debug\net9.0\Examination System.dll
+D:\vs_project C#\Examination System\bin\Debug\net9.0\Examination System.pdb
+D:\vs_project C#\Examination System\obj\Debug\net9.0\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs_project C#\Examination System\obj\Debug\net9.0\Examination System.AssemblyInfoInputs.cache
+D:\vs_project C#\Examination System\obj\Debug\net9.0\Examination System.AssemblyInfo.cs
+D:\vs_project C#\Examination System\obj\Debug\net9.0\Examination System.csproj.CoreCompileInputs.cache
+D:\vs_project C#\Examination System\obj\Debug\net9.0\Examination System.dll
+D:\vs_project C#\Examination System\obj\Debug\net9.0\refint\Examination System.dll
+D:\vs_project C#\Examination System\obj\Debug\net9.0\Examination System.pdb
+D:\vs_project C#\Examination System\obj\Debug\net9.0\Examination System.genruntimeconfig.cache
+D:\vs_project C#\Examination System\obj\Debug\net9.0\ref\Examination System.dll
+D:\يtasks\tasks\Examination-System-main\Examination System\bin\Debug\net9.0\Examination System.exe
+D:\يtasks\tasks\Examination-System-main\Examination System\bin\Debug\net9.0\Examination System.deps.json
+D:\يtasks\tasks\Examination-System-main\Examination System\bin\Debug\net9.0\Examination System.runtimeconfig.json
+D:\يtasks\tasks\Examination-System-main\Examination System\bin\Debug\net9.0\Examination System.dll
+D:\يtasks\tasks\Examination-System-main\Examination System\bin\Debug\net9.0\Examination System.pdb
+D:\يtasks\tasks\Examination-System-main\Examination System\obj\Debug\net9.0\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+D:\يtasks\tasks\Examination-System-main\Examination System\obj\Debug\net9.0\Examination System.AssemblyInfoInputs.cache
+D:\يtasks\tasks\Examination-System-main\Examination System\obj\Debug\net9.0\Examination System.AssemblyInfo.cs
+D:\يtasks\tasks\Examination-System-main\Examination System\obj\Debug\net9.0\Examination System.csproj.CoreCompileInputs.cache
+D:\يtasks\tasks\Examination-System-main\Examination System\obj\Debug\net9.0\Examination System.dll
+D:\يtasks\tasks\Examination-System-main\Examination System\obj\Debug\net9.0\refint\Examination System.dll
+D:\يtasks\tasks\Examination-System-main\Examination System\obj\Debug\net9.0\Examination System.pdb
+D:\يtasks\tasks\Examination-System-main\Examination System\obj\Debug\net9.0\Examination System.genruntimeconfig.cache
+D:\يtasks\tasks\Examination-System-main\Examination System\obj\Debug\net9.0\ref\Examination System.dll
